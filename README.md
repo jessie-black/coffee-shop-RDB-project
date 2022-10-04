@@ -6,6 +6,7 @@ Part of *IBM's Data Engineering Professional Certificate*
 PostgreSQL Database
 IBM Db2 Database
 MySQL
+pgAdmin
 
 ## Data used
 Coffee shop sample data retrieved <a href = https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/12/beanie-coffee-1113>here</a>
@@ -22,8 +23,7 @@ Coffee shop sample data retrieved <a href = https://community.ibm.com/community/
 - Import data into a MySQL database
 
 ## Skills learned/practiced
-
-## Challenges
-
-## Observations
-
+- Creating ERD diagrams
+- Normalizing tables to 1st normal form 
+- Generating SQL from ERD diagrams in pgAdmin
+- Using pgAdmin, DB2 database, and MySQL database for creating and viewing tables with SQL
